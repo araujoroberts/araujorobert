@@ -1,27 +1,21 @@
 # Hi! my name is Roberto Araujo
 
-I'm a Computational Physicist and I turn real life situations into mathematical models.
+I'm a computational modeler and data analyst with a backgrownd in physics and applied water science. I hold a Bachelor’s degree in Physics and am currently completing a Master’s degree in Water Science, where I specialize in numerical modeling of real-world hydrological systems.
 
-**To do so I apply**: 
-- Programming
-- Numerical Methods
-- Theoretical Mechanics
-- Linear Algebra
-- Multivariant Calculus 
+My academic training has provided me with solid foundations in physics, mathematics, and scientific programming, which I apply to numerical simulations, statistical analysis, and data-driven modeling.
+
+**My intesrests are**: 
+- Scientific Programming
+- Numerical Methods 
 - Differential Equations
-- Time Series
-- Statistics
-- Data Analysis
-- Data Visualization
-- Optimization Methods
-- Machine Learning Algorithms
+- Statistics and Data Analysis
+- Optimization Techniques
+- Machine Learning 
  
 **Programming Languages**:  
 - Python 
 - R 
-- Fortran
-- SQL
-- Power BI
+- Matlab
 
 <!--
 **araujorobert/araujorobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
